@@ -44,7 +44,7 @@ Plans for the upcoming versions:
 <br>
 
 <h3>How can I build one by myself?</h3>
-<a href="https://github.com/DeeBuggerTech/PhyESPx_old/blob/main/additional_resources/parts_lists">Here</a>, you will find a list of all the parts I've used for the build of the current version. You can <a href="https://github.com/DeeBuggerTech/PhyESPx_old/blob/main/additional_resources/3d_models">download the 3D-Modells</a> or design your own case and finally print or order it. All the connections can be found in the <a href="https://github.com/DeeBuggerTech/PhyESPx_old/blob/main/additional_resources/wiring_diagram">wiring diagram</a>. Use the Arduino IDE (you might have to install the esp32 boards package and the esp32 spiffs upload feature) to upload the sketches and the web interface to the microcontroller.
+<a href="https://github.com/DeeBuggerTech/PhyESPx/blob/main/additional_resources/parts_lists">Here</a>, you will find a list of all the parts I've used for the build of the current version. You can <a href="https://github.com/DeeBuggerTech/PhyESPx/blob/main/additional_resources/3d_models">download the 3D-Modells</a> or design your own case and finally print or order it. All the connections can be found in the <a href="https://github.com/DeeBuggerTech/PhyESPx/blob/main/additional_resources/wiring_diagram">wiring diagram</a>. Use the Arduino IDE (you might have to install the esp32 boards package and the esp32 spiffs upload feature) to upload the sketches and the web interface to the microcontroller.
 
 <h3>How I came up with the project idea:</h3>
 Thanks to a lucky coincidence, I was able to take part in a <a href="http://eupantec2019.eu">EUPANTEC</a> meeting in 2019. 
