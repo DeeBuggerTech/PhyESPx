@@ -10,8 +10,9 @@ Plans for the upcoming versions:
 <li>replace the battery with a smaller one</li>
 <li>design a PCB to directly fit the ESP-32 SoC, the charge regulator (maybe tp4056) and all the other electrical components</li>
 <li>redesign the case & build some sensor cases</li>
-<li>redesign the connection between the server & the sensor hat (maybe something like just like this)</li>
+<li>redesign the connection between the server & the sensor hat (maybe something like just like <a href="https://user-images.githubusercontent.com/73055949/142659811-71d69719-37f5-421c-9f85-a1bcad55d1c7.jpg">this</a>)</li>
 <li>...</li>
+
 </ul>
 
 <br>
